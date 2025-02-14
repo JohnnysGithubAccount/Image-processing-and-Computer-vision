@@ -31,7 +31,7 @@ In this project, I used my phone to simulate a stereo camera setup to measure di
 
 - **LoFTR Architecture**: Detector-Free Local Feature Matching with Transformer, a light model for feature matching purpose, can be found on HuggingFace. 
 
-![image](https://github.com/user-attachments/assets/608869e6-7717-40f3-a658-fb432ad0d32e)
+![image](https://github.com/user-attachments/assets/57466350-ddfd-48e1-b5a5-bf5fe895ef20)
  
 - **Feature Matching**: Applied a LoFTR model for feature matching between the two images.
 
