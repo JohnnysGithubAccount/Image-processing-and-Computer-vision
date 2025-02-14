@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d83f295-c844-48b7-8fdc-36454e6950af)![image](https://github.com/user-attachments/assets/0d776186-0b2a-4929-9fce-771af1e9bf9a)# Image Processing and Computer Vision
+# Image Processing and Computer Vision
 
 Welcome to my repository for Image Processing and Computer Vision projects! This repository contains two main projects that demonstrate various techniques and applications in the field.
 
